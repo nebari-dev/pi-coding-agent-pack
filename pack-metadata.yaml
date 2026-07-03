@@ -23,7 +23,7 @@
 
 # Must equal the GitHub repo name exactly (e.g. "nebari-data-science-pack").
 # The dashboard uses this to cross-check that the file is in the right repo.
-name: nebari-pi-coding-agent-pack
+name: pi-coding-agent-pack
 
 # Human-readable name shown on the dashboard. Title-case recommended.
 display_name: Pi Coding Agent Pack
